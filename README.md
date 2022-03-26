@@ -1,6 +1,6 @@
 # Cloud Storage
 
-Cloud Storage , this will help you stroage your files and folders in [Dropbox](https://www.dropbox.com/).Without installing [Dropbox app](https://www.dropbox.com/downloading) .
+Cloud Storage , this will help you stroage your files and folders in [Dropbox](https://www.dropbox.com/). Without installing [Dropbox app](https://www.dropbox.com/downloading) .
 
 ![Preview](https://i.ibb.co/8dj8gcC/Screenshot-2022-03-27-041047.png)
 ![Preview](https://i.ibb.co/m48CHMp/Screenshot-2022-03-27-041836.png)
